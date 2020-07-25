@@ -1,0 +1,2 @@
+ Using string slicing
+The string slicing can be used to perform this particular task, by using “-1” as the third argument in slicing we can make function perform the slicing from rear end hence proving to be a simple solution.
